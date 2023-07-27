@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Matildevoldsen\WittCart\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class WittCartCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'wittcart';
 
     public $description = 'My command';
 
